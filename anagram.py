@@ -1,7 +1,7 @@
 #anagram of a string
 import random
 import string
-string1 = input("enter the string to find the anagram : ")
+string1 = input("enter the string to find the anagram: ")
 lists = list(string1)
 a = []
 print(a)
