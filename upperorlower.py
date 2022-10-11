@@ -4,7 +4,7 @@ def islowerupper(strings):
     for i in strings:
         if strings.isupper() == True:
             ucout = ucout + 1
-            #print(ucout)
+            print(strings.isupper())
         else:
             lcout = lcout + 1
             #print(lcout)
